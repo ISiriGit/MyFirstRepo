@@ -6,7 +6,7 @@ public class Firstclass {
 System.out.println("this is my first app after a longgg time");
 int i=10;
 System.out.println("the value of i is :"+i);
-System.out.println("iam changing");
+System.out.println("iam changing to test in GUI");
 	}
 
 }
